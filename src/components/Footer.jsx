@@ -8,7 +8,7 @@ const Footer = () =>{
                 <p>Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.  Nisi perferendis nostrum eos veniam similique  <br />repellendus ratione debitis necessitatibus.</p>
             </div>
 
-            <div className="logo-item">
+            <div className="logo-item1">
                     <h1>Informations</h1>
                     <ul>
                         <li>About Us</li>
