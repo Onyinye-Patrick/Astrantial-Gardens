@@ -16,8 +16,9 @@ function App() {
       <Features/>
       <Collections/>
       <Arrivals/>
-      </div>
       <Footer/>
+      </div>
+     
     </body>
   );
 }

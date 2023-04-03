@@ -16,6 +16,8 @@ body{
   background: white;
   background-size: cover;
   background-position: center;
+  padding-left: 4%;
+  padding-right: 4%;
 
 }
 
@@ -191,8 +193,8 @@ nav a:hover{
 }
 
 .img1{
-  width: 90%;
-  margin-left: 49.5px;
+  width: 100%;
+  
 }
 
 .features{
@@ -316,7 +318,7 @@ footer{
 .logo-item img{
  height: 250px;
  width: 250px;
- margin-top: -30px;
+ margin-top: -10px;
  margin-left: -20px;
 }
 .logo-item h4{
@@ -340,14 +342,29 @@ footer{
   margin-left: 41px;
 }
 
+
+.logo-item1 h1{
+  font-size: 15px;
+  color: rgb(18, 245, 18);
+  margin-top: 40px;
+  margin-left: 65px;
+}
+.logo-item1 li{
+  font-size: 10px;
+  margin-top: 15px;
+  margin-left: 65px;
+}
+
 .logo-item h1{
   font-size: 15px;
   color: rgb(18, 245, 18);
-  margin-top: 70px;
+  margin-top: 40px;
+  margin-left: 100px;
 }
 .logo-item li{
   font-size: 10px;
   margin-top: 15px;
+  margin-left: 100px;
 }
 
 
@@ -474,7 +491,7 @@ nav a{
 
 .feature{
   margin-left: 15px;
-  margin-top: 12px;
+  margin-top: 80px;
 
 }
 .feature h5{
